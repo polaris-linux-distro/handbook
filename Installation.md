@@ -30,4 +30,4 @@ Once the installation is done, reboot.
 
 Congrats! The installation is done.
 
-Move onto here, optionally: [Post Installation](https://polaris-linux-distro.github.io/handbook/PostInstallation.md) 
+Move onto here, optionally: [Post Installation](https://polaris-linux-distro.github.io/handbook/PostInstallation) 

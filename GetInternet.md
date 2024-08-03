@@ -49,4 +49,4 @@ to connect.
 
 You should be connected now. Move onto this:
 
-[Installing Polaris Linux](https://polaris-linux-distro.github.io/handbook/Installation.md) 
+[Installing Polaris Linux](https://polaris-linux-distro.github.io/handbook/Installation) 
