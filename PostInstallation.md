@@ -6,11 +6,11 @@ Once you have logged in, you'll probably wanna do these things:
 
 Start by opening the terminal (not as root) and running 
 
-`polo-pkg update`
+`sudo pacman -Syu`
 
 to synchronize all your packages. Now you can run
 
-`polo-pkg install steam`
+`sudo pacman -S steam`
 
 to install Steam.
 
